@@ -4,7 +4,7 @@ Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
 Materia: Programación Estructrada <br>
 Ciclo: 01/2022</p>
 <br>
-<p>Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programación Estructurada<br>
+<p>Este es un programa de ciclos y funciones en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
   <ul>
     <li>Variables enteras y flotantes</li>
