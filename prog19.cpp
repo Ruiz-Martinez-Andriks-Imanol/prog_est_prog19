@@ -1,9 +1,9 @@
-/* Autor: Andriks Imanol Ruiz Mártinez, Realizado: 28/02/2022
+/* Autor: Andriks Imanol Ruiz MÃ¡rtinez, Realizado: 28/02/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programación Estructrada
+Materia: ProgramaciÃ³n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programación Estructurada
+Este es un programa de ciclos y funciones en Lenguaje C de la materia de ProgramaciÃ³n Estructurada
 Muestra el uso de:
  
     -Variables enteras y flotantes
@@ -15,7 +15,7 @@ Muestra el uso de:
     -Operaciones habilitadas por math.h
     -switch
     -do-while
-    -Comentarios para la documentación interna del programa
+    -Comentarios para la documentaciÃ³n interna del programa
 */
 #include<stdio.h>
 #include<math.h>
